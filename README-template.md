@@ -23,7 +23,13 @@ Users should be able to:
 
 ### Screenshot
 
+#### Desktop Solution
+
 ![](/design/deskop%20solution.png)
+
+#### Mobile Solution
+
+![](/design/mobile%20solution.png)
 
 ### Links
 
